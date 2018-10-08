@@ -1,0 +1,45 @@
+body {
+	margin:0; 
+	font-family:"PT Sans Narrow";
+	font-size: 11px;
+	color: #333333;
+	}
+
+.titulo{
+	font-size: 19px;
+	font-weight:bold;
+}
+
+
+.titulo_semana{
+	font-size: 14px;
+	font-weight:bold;
+}
+
+.titulo_cardapio{
+	font-size: 18px;
+	font-weight:bold;
+	color:#B45938;
+}
+
+.fundo_cardapio{
+	font-size: 15px;
+	background:#FAF7F1;
+	padding:10px;
+}
+
+.dias_semana{
+	font-size: 14px;
+}
+
+.dias_semana a{
+	text-decoration:none;
+	font-size: 14px;
+	color:#333;
+}
+
+.dias_semana a:hover{
+	text-decoration:underline;
+	font-size: 14px;
+	color:#333;
+}
